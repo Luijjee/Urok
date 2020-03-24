@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {  double pi = Math.PI;
             Console.WriteLine("ho");
             Console.WriteLine("ieiee");
+            Console.WriteLine("ie");
             Console.WriteLine(pi);
             Console.ReadKey();
         }
