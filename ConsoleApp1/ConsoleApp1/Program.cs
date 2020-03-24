@@ -10,9 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {  double pi = Math.PI;
-            Console.WriteLine("ho");
-            Console.WriteLine("ieiee");
-            Console.WriteLine("ie");
+            Console.WriteLine("hffffffffffffo");
+           
             Console.WriteLine(pi);
             Console.ReadKey();
         }
